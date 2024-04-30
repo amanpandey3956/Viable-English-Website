@@ -44,5 +44,14 @@
     .paras{
         padding: 0px;
     }
+    .secondhalf img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    .firsthalf{
+        text-align: center;
+    }
 
 }
